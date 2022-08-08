@@ -19,6 +19,7 @@
     pip install djangorestframework-simplejwt
     pip install dj-rest-auth
     pip install pymysql
+    pip install mysqlclient
 
 ### 4. 프로젝트 폴더 위치로 이동 (manage.py 파일이 있는 위치)
     cd cloud
